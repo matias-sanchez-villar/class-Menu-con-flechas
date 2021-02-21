@@ -2,6 +2,16 @@
 using namespace std;
 #include "class/Menu.h"
 
+/*
+*
+*   Pasos a seguir:
+*       Creamos una constante char de tipo puntero, con las opciones del menú.
+*       Instanciamos la clase Menú y le colocamos al constructor titulo, opciones y cantidad de opciones.
+*       Instanciamos el método pintar, para que dibuje las flechas en la consola.
+*       Dentro de un switch colocamos el método mover, el cual nos retornara la opción seleccionada.
+*
+*/
+
 int main(){
     const char *opcione[] = {"Sumar", "Restar", "Multiplicar", "Dividir", "Salir"};
     Menu uno("Menu principal", opcione, 5);
