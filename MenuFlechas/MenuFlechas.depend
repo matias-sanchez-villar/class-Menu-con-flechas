@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1611265245 source:c:\users\usuario\downloads\menu-flechas\menuflechas\main.cpp
+	<iostream>
+	<conio.h>
+	"rlutil.h"
+	"ui.h"
+
+1408988023 c:\users\usuario\downloads\menu-flechas\menuflechas\gotoxy.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1606276202 c:\users\usuario\downloads\menu-flechas\menuflechas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611260828 source:c:\users\usuario\downloads\menu-flechas\menuflechas\ui.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1611260828 c:\users\usuario\downloads\menu-flechas\menuflechas\ui.h
+
